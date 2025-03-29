@@ -101,7 +101,7 @@ export default function Home() {
                     name="Sarah Miller"
                     title="BA in Education, 5+ Years Experience"
                     country="Canada"
-                    image="/teacher3.JPG"
+                    image="/test3.png"
                     certifications={["TEFL", "TKT"]}
                     specialties={["Conversation", "Grammar"]}
                   />
@@ -109,7 +109,7 @@ export default function Home() {
                     name="Michael Davis"
                     title="CELTA Certified, 7+ Years Experience"
                     country="Australia"
-                    image="/teacher4.JPG"
+                    image="/test4.png"
                     certifications={["CELTA", "TEFL"]}
                     specialties={["Exam Preparation", "Public Speaking"]}
                   />
@@ -117,7 +117,7 @@ export default function Home() {
                     name="Olivia Johnson"
                     title="TESOL Certified, 4+ Years Experience"
                     country="United States"
-                    image="/teacher5.JPG"
+                    image="/test1.png"
                     certifications={["TESOL", "TKT"]}
                     specialties={["Young Learners", "Phonics"]}
                   />

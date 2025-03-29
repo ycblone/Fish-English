@@ -101,7 +101,7 @@ export default function Home() {
                     name="Sarah Miller"
                     title="BA in Education, 5+ Years Experience"
                     country="Canada"
-                    image="/test3.png"
+                    image="/teacher3.JPG"
                     certifications={["TEFL", "TKT"]}
                     specialties={["Conversation", "Grammar"]}
                   />
@@ -109,7 +109,7 @@ export default function Home() {
                     name="Michael Davis"
                     title="CELTA Certified, 7+ Years Experience"
                     country="Australia"
-                    image="/test4.png"
+                    image="/teacher4.JPG"
                     certifications={["CELTA", "TEFL"]}
                     specialties={["Exam Preparation", "Public Speaking"]}
                   />

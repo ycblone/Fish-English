@@ -6,7 +6,6 @@ import TeacherCard from "@/components/teacher-card"
 import TeacherCarousel from "@/components/teacher-carousel"
 import teachersData from "./data/teachers.json"
 import DynamicYear from "./components/dynamic-year"
-import AnimatedGlobe from "@/components/animated-globe"
 
 export default function Home() {
   return (

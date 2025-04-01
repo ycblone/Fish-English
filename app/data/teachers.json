@@ -1,0 +1,86 @@
+{
+  "westernTeachers": [
+    {
+      "name": "Rossanna Fantilanan",
+      "title": "TEFL Certified, 8+ Years Experience",
+      "country": "United States",
+      "image": "/teacher1.png",
+      "certifications": ["TEFL", "CELTA"],
+      "specialties": ["Business English", "Pronunciation"]
+    },
+    {
+      "name": "John Lloyd Reyes",
+      "title": "MA in TESOL, 6+ Years Experience",
+      "country": "United Kingdom",
+      "image": "/teacher2.png",
+      "certifications": ["TESOL", "DELTA"],
+      "specialties": ["Academic English", "IELTS Preparation"]
+    },
+    {
+      "name": "Sarah Miller",
+      "title": "BA in Education, 5+ Years Experience",
+      "country": "Canada",
+      "image": "/teacher3.png",
+      "certifications": ["TEFL", "TKT"],
+      "specialties": ["Conversation", "Grammar"]
+    },
+    {
+      "name": "Michael Davis",
+      "title": "CELTA Certified, 7+ Years Experience",
+      "country": "Australia",
+      "image": "/teacher4.png",
+      "certifications": ["CELTA", "TEFL"],
+      "specialties": ["Exam Preparation", "Public Speaking"]
+    },
+    {
+      "name": "Olivia Johnson",
+      "title": "TESOL Certified, 4+ Years Experience",
+      "country": "United States",
+      "image": "/teacher5.png",
+      "certifications": ["TESOL", "TKT"],
+      "specialties": ["Young Learners", "Phonics"]
+    }
+  ],
+  "filipinoTeachers": [
+    {
+      "name": "Rossanna Fantilanan",
+      "title": "TESOL Certified, 6+ Years Experience",
+      "country": "Philippines",
+      "image": "/teacherAnna.jpg",
+      "certifications": ["TESOL", "TEFL"],
+      "specialties": ["Conversation", "Vocabulary Building"]
+    },
+    {
+      "name": "John Lloyd Reyes",
+      "title": "BA in English, 5+ Years Experience",
+      "country": "Philippines",
+      "image": "/teacherJojo.JPG",
+      "certifications": ["TEFL", "TKT"],
+      "specialties": ["Grammar", "Reading Comprehension"]
+    },
+    {
+      "name": "Ca Coniendo",
+      "title": "MA in Education, 7+ Years Experience",
+      "country": "Philippines",
+      "image": "/teacherCaren.png",
+      "certifications": ["TESOL", "CELTA"],
+      "specialties": ["Business English", "TOEFL Preparation"]
+    },
+    {
+      "name": "Maria Carla Gold Viloria",
+      "title": "TEFL Certified, 4+ Years Experience",
+      "country": "Philippines",
+      "image": "/teacherCarla.png",
+      "certifications": ["TEFL", "TKT"],
+      "specialties": ["Pronunciation", "Listening Skills"]
+    },
+    {
+      "name": "Elaine Malveda",
+      "title": "BA in English Literature, 5+ Years Experience",
+      "country": "Philippines",
+      "image": "/teacherElaine.png",
+      "certifications": ["TEFL", "TESOL"],
+      "specialties": ["Writing", "Speaking"]
+    }
+  ]
+} 
